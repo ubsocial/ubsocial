@@ -1,2 +1,2 @@
-# ☂ UB Social
-O UB Social é o site pessoal do Mateus Schwede, que tem por objetivos o compartilhamento de conteúdo sobre tecnologia Livre e Desenvolvimento de Sistemas, de forma simples, completa e gratuita.
+# UB Social
+Acervo de resumos do Mateus Schwede, com objetivo de compartilhar conteúdo sobre desenvolvimento de sistemas, de forma simples, completa e gratuita.
